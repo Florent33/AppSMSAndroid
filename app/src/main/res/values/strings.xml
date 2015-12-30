@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">SMS</string>
+
+    <string name="edit_message">Enter a message</string>
+
+    <string name="button_send">send</string>
+
+    <string name="action_settings">mainActivity</string>
+
+    <string name="title_activity_main">MyMessage</string>
+
+    <string name="title_activity_display_message">My Message</string>
+
+</resources>
